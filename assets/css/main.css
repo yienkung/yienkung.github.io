@@ -2475,13 +2475,14 @@
 /* Banner */
 
 	#banner {
-		background-image: url("http://www.footballdj.com/wp-content/uploads/2015/07/Premier-League-2015-image.jpg");
+		background-image: url("http://www.hablandodefootball.com/wp-content/uploads/2014/08/barclay2014-2015.png");
 		background-position: center center;
-		background-size: cover;
+		background-size: 898px 408px;
 		height: 28em;
 		text-align: center;
 		position: relative;
-		padding-top: 550px;
+		padding:200px;
+		background-repeat: no-repeat;
 	}
 
 		#banner header {
