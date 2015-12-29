@@ -2532,9 +2532,10 @@
 		}
 
 		.wrapper.style2 {
+			background-color: #000000;
 			background-image: url("images/plt.jpg");
-			background-position: top left;					
-			background-size: 100% 6em;
+			background-position: center center;					
+			background-size: 400px 225px;
 			background-repeat: no-repeat;
 		}
 
